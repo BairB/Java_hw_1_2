@@ -20,10 +20,6 @@
 * ОР
 В результате выполнения кода появляется надпись: Result is ОК
 
-* ФР
-В результате выполнения кода появляется надпись: Result is FAIL
-
-![](https://downloader.disk.yandex.ru/preview/292cd79d78576b7dbfdf9b7a79456b7e583bbc4681a87ace04e2144bd3f9f971/603fb8b7/rJM704MtQ5B-_eMUFc5s2ucW9qCoudCqSW3We4we7QK_SPbV3S-3AjzBCK0iXQxuKDRkUjgp4A6WAhcDMcTklw%3D%3D?uid=0&filename=result.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 
 ## Тестирование проводилось в следующем окружении
